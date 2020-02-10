@@ -1,0 +1,150 @@
+apis	7029	Acyrthosiphon pisum	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Acyrthosiphon_pisum/protein/protein.fa.gz
+aaeg	7159	Aedes aegypti	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/aedes_aegypti/pep/Aedes_aegypti.AaegL1.53.pep.all.fa.gz
+atum	176299	Agrobacterium tumefaciens str. C58	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Agrobacterium_tumefaciens_C58_Cereon/*.faa
+agam	180454	Anopheles gambiae str. PEST	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/anopheles_gambiae/pep/Anopheles_gambiae.AgamP3.53.pep.all.fa.gz
+amel	7460	Apis mellifera	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Apis_mellifera/protein/protein.fa.gz
+aaeo	224324	Aquifex aeolicus VF5	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Aquifex_aeolicus/
+atha	3702	Arabidopsis thaliana	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Arabidopsis_thaliana/CHR_V/NC_003076.faa
+aful	224325	Archaeoglobus fulgidus DSM 4304	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Archaeoglobus_fulgidus/NC_000917.faa
+afum	330879	Aspergillus fumigatus Af293	AspGD	source FungiDB
+aory	510516	Aspergillus oryzae RIB40	AIST	ftp://ftp.bio.nite.go.jp/pub/ao/*.pep
+bbov	484906	Babesia bovis T2Bo	GenBank	ftp://ftp.ncbi.nih.gov/genomes/
+bant	261594	Bacillus anthracis str. 'Ames Ancestor'	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Bacillus_anthracis_Ames_0581/*.fasta
+bmor	7091	Bombyx mori	SilkDB	http://silkworm.genomics.org.cn/silkdb/doc/download.html
+bsui	204722	Brucella suis 1330	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Brucella_suis_1330/*.faa
+bmaa	6279	Brugia malayi	nematode.net	http://www.nematode.net/
+bmal	243160	Burkholderia mallei ATCC 23344	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Burkholderia_mallei_ATCC_23344/*.faa
+bpse	320372	Burkholderia pseudomallei 1710b	GenBank	ftp://ftp.ncbi.nlm.nih.gov/genomes/Bacteria/Burkholderia_pseudomallei_1710b/*.faa
+cbri	473542	Caenorhabditis briggsae AF16	Wormbase	ftp://ftp.wormbase.org/pub/wormbase/genomes/c_briggsae/sequences/protein/brigpep.WS206.fa.gz
+cele	6239	Caenorhabditis elegans	Wormbase	ftp://ftp.wormbase.org/pub/wormbase/genomes/c_elegans/sequences/protein/wormpep.WS206.fa.gz
+cmaq	397948	Caldivirga maquilingensis IC-167	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Caldivirga_maquilingensis_IC-167/NC_009954.faa
+cjej	192222	Campylobacter jejuni subsp. jejuni NCTC 11168	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Campylobacter_jejuni/NC_002163.faa
+calb	5476	Candida albicans	Broad	source FungiDB
+cgla	284593	Candida glabrata CBS 138	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Fungi/Candida_glabrata_CBS138/*.faa
+ckor	374847	Candidatus Korarchaeum cryptofilum OPF8	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Candidatus_Korarchaeum_cryptofilum_OPF8/NC_010482.faa
+clup	9615	Canis lupus familiaris	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/canis_familiaris/pep/Canis_familiaris.BROADD2.56.pep.all.fa.gz
+crei	3055	Chlamydomonas reinhardtii	JGI	ftp://ftp.jgi-psf.org/pub/JGI_data/Chlamy/v3.1/Chlre3_1.GeneCatalog_2007_09_13.proteins.fasta.gz
+cpne	115713	Chlamydophila pneumoniae CWL029	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Chlamydophila_pneumoniae_CWL029/NC_000922.faa
+ctep	194439	Chlorobium tepidum TLS	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Chlorobium_tepidum_TLS/NC_002932.faa
+cint	7719	Ciona intestinalis	GenBank	ftp://ftp.ensembl.org/pub/current_fasta/ciona_intestinalis/pep/Ciona_intestinalis.JGI2.53.pep.all.fa.gz
+cbot	498214	Clostridium botulinum A3 str. Loch Maree	GenBank	ftp://ftp.ncbi.nlm.nih.gov/genomes/Bacteria/Clostridium_botulinum_A3_Loch_Maree/*.faa
+cper	195102	Clostridium perfringens str. 13	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Clostridium_perfringens_ATCC_13124/NC_008261.faa
+cimm	246410	Coccidioides immitis RS	Broad	source FungiDB
+cpos	454284	Coccidioides posadasii RMSCC 3488	Broad	source FungiDB
+cbur	227377	Coxiella burnetii RSA 493	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Coxiella_burnetii/*.faa
+cneo	37769	Cryptococcus bacillisporus	Broad	source FungiDB
+cneg	235443	Cryptococcus neoformans var. grubii H99	Broad	source FungiDB
+chom	353151	Cryptosporidium hominis TU502	CryptoDB	http://cryptodb.org/common/downloads/release-4.3/Chominis/fasta/ChominisAnnotatedProteins_CryptoDB-4.3.fasta
+cmur	441375	Cryptosporidium muris RN66	CryptoDB	http://cryptodb.org/common/downloads/release-4.3/Cmuris/fasta/CmurisAnnotatedProteins_CryptoDB-4.3.fasta
+cpar	353152	Cryptosporidium parvum Iowa II	CryptoDB	http://cryptodb.org/common/downloads/release-4.3/Cparvum/fasta/CparvumAnnotatedProteins_CryptoDB-4.3.fasta
+cpip	7175	Culex pipiens	VectorBase	http://cpipiens.vectorbase.org/GetData/Downloads/
+cmer	280699	Cyanidioschyzon merolae strain 10D	C. merolae Genome Project	http://merolae.biol.s.u-tokyo.ac.jp/download/cds.fasta
+drer	7955	Danio rerio	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/danio_rerio/pep/Danio_rerio.Zv8.56.pep.all.fa.gz
+dhan	284592	Debaryomyces hansenii CBS767	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Fungi/Debaryomyces_hansenii_CBS767/*.faa
+deth	243164	Dehalococcoides ethenogenes 195	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Dehalococcoides_ethenogenes_195/NC_002936.faa
+drad	243230	Deinococcus radiodurans R1	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Deinococcus_radiodurans/*.faa
+ddis	352472	Dictyostelium discoideum AX4	DictyBase	http://dictybase.org/db/cgi-bin/dictyBase/download/blast_databases.pl
+dmel	7227	Drosophila melanogaster	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/drosophila_melanogaster/pep/Drosophila_melanogaster.BDGP5.13.56.pep.all.fa.gz
+anid	162425	Emericella nidulans	AspGD	source FungiDB
+ecun	284813	Encephalitozoon cuniculi GB-M1	MicrosporidiaDB	http://microsporidiadb.org/common/downloads/release-1.2/Ecuniculi/fasta/EcuniculiAnnotatedProteins_MicrosporidiaDB-1.2.fasta
+eint	58839	Encephalitozoon intestinalis	MicrosporidiaDB	http://microsporidiadb.org/common/downloads/release-1.2/Eintestinalis/fasta/EintestinalisAnnotatedProteins_MicrosporidiaDB-1.2.fasta
+edis	370354	Entamoeba dispar SAW760	AmoebaDB	http://amoebadb.org/common/downloads/release-1.3/Edispar/fasta/EdisparAnnotatedProteins_AmoebaDB-1.3.fasta
+ehis	294381	Entamoeba histolytica HM-1:IMSS	AmoebaDB	http://amoebadb.org/common/downloads/release-1.3/Ehistolytica/fasta/EhistolyticaAnnotatedProteins_AmoebaDB-1.3.fasta
+einv	370355	Entamoeba invadens IP1	AmoebaDB	http://amoebadb.org/common/downloads/release-1.3/Einvadens/fasta/EinvadensAnnotatedProteins_AmoebaDB-1.3.fasta
+ebie	31281	Enterocytozoon bieneusi	MicrosporidiaDB	http://microsporidiadb.org/common/downloads/release-1.2/Ebieneusi/fasta/EbieneusiAnnotatedProteins_MicrosporidiaDB-1.2.fasta
+ecab	9796	Equus caballus	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Equus_caballus/protein/
+egos	33169	Eremothecium gossypii	EBI	ftp://ftp.ebi.ac.uk/pub/databases/integr8/uniprot/proteomes/
+ecol	316407	Escherichia coli str. K-12 substr. W3110	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Escherichia_coli_K_12_substr__W3110/AC_000091.faa
+ftul	177416	Francisella tularensis subsp. tularensis SCHU S4	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Francisella_tularensis_tularensis/NC_006570.faa
+ggal	9031	Gallus gallus	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/gallus_gallus/pep/Gallus_gallus.WASHUC2.56.pep.all.fa.gz
+gsul	243231	Geobacter sulfurreducens PCA	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Geobacter_sulfurreducens/NC_002939.faa
+glab	598745	Giardia intestinalis ATCC 50581	GiardiaDB	http://giardiadb.org/common/downloads/release-2.3/GintestinalisAssemblageB/fasta/GintestinalisAssemblageBAnnotatedProteins_GiardiaDB-2.3.fasta
+glam	184922	Giardia lamblia ATCC 50803	GiardiaDB	http://giardiadb.org/common/downloads/release-2.3/GintestinalisAssemblageA/fasta/GlambliaAnnotatedProteins_GiardiaDB-2.3.fasta
+glae	658858	Giardia lamblia P15	GiardiaDB	http://giardiadb.org/common/downloads/release-2.3/GintestinalisAssemblageE/fasta/GintestinalisAssemblageEAnnotatedProteins_GiardiaDB-2.3.fasta
+gzea	229533	Gibberella zeae PH-1	Broad	http://www.broad.mit.edu/annotation/genome/fusarium_graminearum/GeneIndex.html
+gthe	55529	Guillardia theta	JGI	http://img.jgi.doe.gov/cgi-bin/pub/main.cgi
+halo	64091	Halobacterium sp. NRC-1	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Halobacterium_sp/*.faa
+hwal	362976	Haloquadratum walsbyi DSM 16790	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Haloquadratum_walsbyi/*.faa
+hsap	9606	Homo sapiens	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/homo_sapiens/pep/Homo_sapiens.GRCh37.56.pep.all.fa.gz
+hbut	415426	Hyperthermus butylicus DSM 5456	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Hyperthermus_butylicus/NC_008818.faa
+ihos	453591	Ignicoccus hospitalis KIN4/I	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Ignicoccus_hospitalis_KIN4_I/NC_009776.faa
+isca	6945	Ixodes scapularis	NCBI	http://www.ncbi.nlm.nih.gov
+klac	284590	Kluyveromyces lactis NRRL Y-1140 GenBank	ftp://ftp.ncbi.nih.gov/genomes/Fungi/Kluyveromyces_lactis_NRRL_Y-1140/	
+lbic	486041	Laccaria bicolor S238N-H82	JGI	http://genome.jgi-psf.org/Lacbi1/Lacbi1.download.ftp.html
+lbra	5660	Leishmania braziliensis	TriTrypDB	http://tritrypdb.org/common/downloads/release-3.0/Lbraziliensis/fasta/LbraziliensisAnnotatedProteins_TriTrypDB-3.0.fasta
+linf	5671	Leishmania infantum	TriTrypDB	http://tritrypdb.org/common/downloads/release-3.0/Linfantum/fasta/LinfantumAnnotatedProteins_TriTrypDB-3.0.fasta
+lmaj	347515	Leishmania major strain Friedlin	TriTrypDB	http://tritrypdb.org/common/downloads/release-3.0/Lmajor/fasta/LmajorFriedlinAnnotatedProteins_TriTrypDB-3.0.fasta
+lmex	5665	Leishmania mexicana	TriTrypDB	http://tritrypdb.org/common/downloads/release-3.0/Lmexicana/fasta/LmexicanaAnnotatedProteins_TriTrypDB-3.0.fasta
+lmon	169963	Listeria monocytogenes EGD-e	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Listeria_monocytogenes/NC_003210.faa
+mmul	9544	Macaca mulatta	NCBI	http://www.ncbi.nlm.nih.gov
+mgri	242507	Magnaporthe oryzae 70-15	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Fungi/Magnaporthe_grisea_70-15/NC_009594.faa
+msed	399549	Metallosphaera sedula DSM 5348	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Metallosphaera_sedula_DSM_5348/NC_009440.faa
+msmi	420247	Methanobrevibacter smithii ATCC 35061	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Methanobrevibacter_smithii_ATCC_35061/NC_009515.faa
+mjan	243232	Methanocaldococcus jannaschii DSM 2661	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Methanococcus_jannaschii/*.faa
+mmar	267377	Methanococcus maripaludis S2	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Methanococcus_maripaludis_S2/NC_005791.faa
+micr	296587	Micromonas sp. RCC299	NCBI	http://www.ncbi.nlm.nih.gov
+mdom	13616	Monodelphis domestica	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/monodelphis_domestica/pep/Monodelphis_domestica.BROADO5.53.pep.all.fa.gz
+mbre	431895	Monosiga brevicollis MX1	JGI	http://genome.jgi-psf.org/Monbr1/Monbr1.download.ftp.html
+mmus	10090	Mus musculus	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/mus_musculus/pep/Mus_musculus.NCBIM37.56.pep.all.fa.gz
+mlep	561304	Mycobacterium leprae Br4923	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Mycobacterium_leprae_Br4923_uid59293/NC_011896.faa
+mtub	83332	Mycobacterium tuberculosis H37Rv	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Mycobacterium_tuberculosis_H37Rv/NC_000962.faa
+nequ	228908	Nanoarchaeum equitans Kin4-M	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Nanoarchaeum_equitans/NC_005213.faa
+nvec	45351	Nematostella vectensis	JGI	http://genome.jgi-psf.org/Nemve1/Nemve1.download.ftp.html
+ncan	29176	Neospora caninum	ToxoDB	http://toxodb.org/common/downloads/release-6.2/NeosporaCaninum/fasta/NeosporaCaninumAnnotatedProteins_ToxoDB-6.2.fasta
+ncra	367110	Neurospora crassa OR74A	Broad	source FungiDB
+nmar	436308	Nitrosopumilus maritimus SCM1	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Nitrosopumilus_maritimus_SCM1/NC_010085.faa
+oana	9258	Ornithorhynchus anatinus	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/ornithorhynchus_anatinus/pep/Ornithorhynchus_anatinus.OANA5.53.pep.all.fa.gz
+osat	39947	Oryza sativa Japonica Group	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Oryza_sativa/*.faa
+otau	70448	Ostreococcus tauri	JGI	http://genome.jgi-psf.org/Ostta4/Ostta4.download.ftp.html
+ptro	9598	Pan troglodytes	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/pan_troglodytes/pep/Pan_troglodytes.CHIMP2.1.56.pep.all.fa.gz
+phum	121225	Pediculus humanus	VectorBase	http://phumanus.vectorbase.org/GetData/Downloads/
+pchr	5306	Phanerochaete chrysosporium	JGI	source FungiDB
+ppat	145481	Physcomitrella patens subsp. patens	JGI	http://genome.jgi-psf.org/
+pram	164328	Phytophthora ramorum	JGI	http://genome.jgi-psf.org/Phyra1_1/Phyra1_1.download.ftp.html
+pber	5823	Plasmodium berghei str. ANKA	PlasmoDB	http://plasmodb.org/common/downloads/release-7.1/Pberghei/fasta/PbergheiAnnotatedProteins_PlasmoDB-7.1.fasta
+pcha	31271	Plasmodium chabaudi chabaudi	PlasmoDB	http://plasmodb.org/common/downloads/release-7.1/Pchabaudi/fasta/PchabaudiAnnotatedProteins_PlasmoDB-7.1.fasta
+pfal	36329	Plasmodium falciparum 3D7	PlasmoDB	http://plasmodb.org/common/downloads/release-7.1/Pfalciparum/fasta/PfalciparumAnnotatedProteins_PlasmoDB-7.1.fasta
+pkno	5851	Plasmodium knowlesi strain H	PlasmoDB	http://plasmodb.org/common/downloads/release-7.1/Pknowlesi/fasta/PknowlesiAnnotatedProteins_PlasmoDB-7.1.fasta
+pviv	126793	Plasmodium vivax SaI-1	PlasmoDB	http://plasmodb.org/common/downloads/release-7.1/Pvivax/fasta/PvivaxAnnotatedProteins_PlasmoDB-7.1.fasta
+pyoe	352914	Plasmodium yoelii yoelii str. 17XNL	PlasmoDB	http://plasmodb.org/common/downloads/release-7.1/Pyoelii/fasta/PyoeliiAnnotatedProteins_PlasmoDB-7.1.fasta
+rsol	267608	Ralstonia solanacearum GMI1000	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Ralstonia_solanacearum/*.faa
+rnor	10116	Rattus norvegicus	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/rattus_norvegicus/pep/Rattus_norvegicus.RGSC3.4.53.pep.all.fa.gz
+rbal	243090	Rhodopirellula baltica SH 1	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Pirellula_sp/NC_005027.faa
+rcom	3988	Ricinus communis	JCVI	ftp://ftp.tigr.org/pub/data/castorbean/release_0.1/TIGR_castorWGS_release_0.1.aa.fsa.gz
+rpro	272947	Rickettsia prowazekii str. Madrid E	GenBank	ftp://ftp.ncbi.nlm.nih.gov/genomes/Bacteria/Rickettsia_prowazekii/NC_000963.faa
+rtyp	257363	Rickettsia typhi str. Wilmington	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Rickettsia_typhi_wilmington/NC_006142.faa
+scer	559292	Saccharomyces cerevisiae S288c	SGD	source FungiDB
+sent	220341	Salmonella enterica subsp. enterica serovar Typhi str. CT18	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Salmonella_typhi/*.faa
+psti	322104	Scheffersomyces stipitis CBS 6054	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Fungi/Pichia_stipitis_CBS_6054/*.faa
+sman	6183	Schistosoma mansoni	WTSI	ftp://ftp.sanger.ac.uk/pub/pathogens/Schistosoma/mansoni/genome/gene_predictions/
+spom	4896	Schizosaccharomyces pombe	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Fungi/Schizosaccharomyces_pombe/*.faa
+sfle	198214	Shigella flexneri 2a str. 301	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Shigella_flexneri_2a/*.faa
+saur	158878	Staphylococcus aureus subsp. aureus Mu50	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Staphylococcus_aureus_Mu50/*.faa
+smar	399550	Staphylothermus marinus F1	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Staphylothermus_marinus_F1/NC_009033.faa
+spne	170187	Streptococcus pneumoniae TIGR4	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Streptococcus_pneumoniae_TIGR4/NC_003028.faa
+ssol	273057	Sulfolobus solfataricus P2	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Sulfolobus_solfataricus/NC_002754.faa
+syne	84588	Synechococcus sp. WH 8102	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Synechococcus_sp_WH8102/NC_005070.faa
+trub	31033	Takifugu rubripes	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/takifugu_rubripes/pep/Takifugu_rubripes.FUGU4.53.pep.all.fa.gz
+tthe	312017	Tetrahymena thermophila SB210	JCVI	ftp://ftp.tigr.org/pub/data/Eukaryotic_Projects/t_thermophila/annotation_dbs/TTA1.pep
+tnig	99883	Tetraodon nigroviridis	Ensembl	ftp://ftp.ensembl.org/pub/current_fasta/tetraodon_nigroviridis/pep/Tetraodon_nigroviridis.TETRAODON8.53.pep.all.fa.gz
+tpse	296543	Thalassiosira pseudonana CCMP1335	JGI http://genome.jgi-psf.org/Thaps3/Thaps3.download.html from JGI	
+tann	353154	Theileria annulata strain Ankara	WTSI	ftp://ftp.sanger.ac.uk/pub/pathogens/T_annulata/TANN.GeneDB.pep
+tpar	333668	Theileria parva strain Muguga	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Protozoa/Theileria_parva/
+tvol	273116	Thermoplasma volcanium GSS1	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Thermoplasma_volcanium/NC_002689.faa
+tmar	243274	Thermotoga maritima MSB8	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Thermotoga_maritima/NC_000853.faa
+tgon	5811	Toxoplasma gondii	ToxoDB	nrProteinsME49/GT1/VEG
+tpal	243276	Treponema pallidum subsp. pallidum str. Nichols	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Treponema_pallidum/NC_000919.faa
+tvag	412133	Trichomonas vaginalis G3	TrichDB	http://trichdb.org/common/downloads/release-1.2/Tvaginalis/fasta/TvaginalisAnnotatedProteins_TrichDB-1.2.fasta
+tadh	10228	Trichoplax adhaerens	JGI	http://genome.jgi-psf.org/Triad1/Triad1.download.ftp.html
+tbru	5691	Trypanosoma brucei	TriTrypDB	"http://tritrypdb.org/common/downloads/release-3.0/Tbrucei/fasta/TbruceiTreu927AnnotatedProteins_TriTrypDB-3.0.fasta,Tbrucei427AnnotatedProteins_TriTrypDB-3.0.fasta"
+tbrg	31285	Trypanosoma brucei gambiense	TriTrypDB	http://tritrypdb.org/common/downloads/release-3.0/Tbrucei/fasta/TbruceiGambienseAnnotatedProteins_TriTrypDB-3.0.fasta
+tcon	5692	Trypanosoma congolense	TriTrypDB	http://tritrypdb.org/common/downloads/release-3.0/Tcongolense/fasta/TcongolenseAnnotatedProteins_TriTrypDB-3.0.fasta
+tcru	353153	Trypanosoma cruzi strain CL Brener	TriTrypDB	"http://tritrypdb.org/common/downloads/release-3.0/Tcruzi/fasta/TcruziEsmeraldo-LikeAnnotatedProteins_TriTrypDB-3.0.fasta,http://tritrypdb.org/common/downloads/release-3.0/Tcruzi/fasta/TcruziNonEsmeraldo-LikeAnnotatedProteins_TriTrypDB-3.0.fasta,http://tritrypdb.org/common/downloads/release-3.0/Tcruzi/fasta/TcruziUnassignedContigsAnnotatedProteins_TriTrypDB-3.0.fasta"
+tviv	5699	Trypanosoma vivax	TriTrypDB	http://tritrypdb.org/common/downloads/release-3.0/Tvivax/fasta/TvivaxAnnotatedProteins_TriTrypDB-3.0.fasta
+vcho	243277	Vibrio cholerae O1 biovar El Tor str. N16961	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Vibrio_cholerae/*.faa
+vcar	3068	Volvox carteri f. nagariensis	NCBI	http://www.ncbi.nlm.nih.gov
+wend	570417	Wolbachia endosymbiont of Culex quinquefasciatus Pel	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Wolbachia_endosymbiont_of_Culex_quinquefasciatus_Pel_uid30313/NC_010981.faa
+wsuc	273121	Wolinella succinogenes DSM 1740	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Wolinella_succinogenes/NC_005090.faa
+ylip	284591	Yarrowia lipolytica CLIB122	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Fungi/Yarrowia_lipolytica_CLIB122/*.faa
+yent	393305	Yersinia enterocolitica subsp. enterocolitica 8081	GenBank	ftp://ftp.ncbi.nlm.nih.gov/genomes/Bacteria/Yersinia_enterocolitica_8081/*.faa
+ypes	214092	Yersinia pestis CO92	GenBank	ftp://ftp.ncbi.nih.gov/genomes/Bacteria/Yersinia_pestis_CO92/
