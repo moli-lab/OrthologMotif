@@ -98,16 +98,14 @@ any amino acid such as L, E, Q etc.)
 > left, and these selected species will be listed in the box of Query
 > Species on the left.
 
-![](media/image1.png){width="5.768055555555556in"
-height="5.370833333333334in"}
+![image-20200216155216759](/Users/wenyuhao/Library/Application Support/typora-user-images/image-20200216155216759.png)
 
 2.  **Target species**
 
 > Select the *hsap* and click the *Add* button on the right, and it will
 > be listed in the box of Subject Species on the right.
 
-![](media/image2.png){width="5.768055555555556in"
-height="5.345138888888889in"}
+![image-20200216155236123](/Users/wenyuhao/Library/Application Support/typora-user-images/image-20200216155236123.png)
 
 3.  **Motif**
 
@@ -116,10 +114,9 @@ will be loaded in the Motif Box. User can also enter motifs in the Motif
 Box. After setting all parameters, click *Start* button to launch the
 program.
 
-![](media/image3.png){width="4.953053368328959in"
-height="4.583333333333333in"}
+![image-20200216155301018](/Users/wenyuhao/Library/Application Support/typora-user-images/image-20200216155301018.png)
 
-![](media/image4.png){width="5.0in" height="4.66169072615923in"}
+![image-20200216155311401](/Users/wenyuhao/Library/Application Support/typora-user-images/image-20200216155311401.png)
 
 2.  **Console Application**
 
@@ -129,4 +126,4 @@ cint apis drer tnig rnor mmus clup ecab ptro -subject hsap -motif
 motif.txt* command and click any key other than *n* to launch the
 program**.**
 
-![](media/image5.png){width="5.768055555555556in" height="1.2125in"}
+![image-20200216155323256](/Users/wenyuhao/Library/Application Support/typora-user-images/image-20200216155323256.png)
